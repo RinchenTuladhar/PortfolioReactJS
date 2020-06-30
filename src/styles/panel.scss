@@ -1,0 +1,12 @@
+.panel {
+  flex-grow: 1;
+  border: 0.01rem solid grey;
+  margin: 0.6rem;
+
+  .panel__title {
+    text-align: center;
+  }
+  .panel__content {
+    padding: 0rem 1rem;
+  }
+}
