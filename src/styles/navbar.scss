@@ -1,7 +1,13 @@
 header {
   display: flex;
   justify-content: space-between;
-
+  height: 5rem;
+  align-items: center;
+  .page-links a {
+    margin-right: 3rem;
+    text-decoration: none;
+    color: black;
+  }
   .social-links {
     i {
       color: #0e76a8;
