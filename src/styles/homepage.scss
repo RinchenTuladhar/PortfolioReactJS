@@ -5,6 +5,15 @@
     align-items: center;
   }
 
+  ul li {
+    list-style-type: none;
+    margin-bottom: 0.5rem;
+    i {
+      width: 2rem;
+      font-size: 1rem;
+    }
+  }
+
   .half-section {
     width: 50%;
   }

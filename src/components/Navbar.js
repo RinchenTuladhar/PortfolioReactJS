@@ -15,7 +15,14 @@ const Navbar = () => {
       </div>
       <div className="social-links">
         <a href="https://www.linkedin.com/in/rinchen-tuladhar/" target="_blank">
-          <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+          <i
+            class="fa fa-linkedin-square"
+            aria-hidden="true"
+            id="linked-in"
+          ></i>
+        </a>
+        <a href="https://bitbucket.org/rinchent" target="_blank">
+          <i class="fa fa-bitbucket" aria-hidden="true" id="bitbucket"></i>
         </a>
       </div>
     </header>

@@ -9,8 +9,15 @@ header {
     color: black;
   }
   .social-links {
-    i {
+    a {
+      margin-right: 1rem;
+    }
+    i#linked-in {
       color: #0e76a8;
+    }
+
+    i#bitbucket {
+      color: #2684ff;
     }
   }
 }

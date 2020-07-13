@@ -12,10 +12,21 @@ export default class Home extends React.Component {
           <div className="half-section">
             <h1>Hello, I'm Rinchen.</h1>
             <p>Experienced in Full-Stack Web Development.</p>
-            <p>
-              Industry experience in HTML, CSS, JavaScript, EmberJs, Ruby on
-              Rails.
-            </p>
+            <br />
+            <ul>
+              <li>
+                <p>
+                  <i class="fa fa-envelope" aria-hidden="true"></i>{" "}
+                  rinchentul@gmail.com
+                </p>
+              </li>
+              <li>
+                <p>
+                  <i class="fa fa-map-marker" aria-hidden="true"></i> United
+                  Kingdom, Liverpool
+                </p>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
