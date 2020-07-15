@@ -40,6 +40,11 @@ export default class Home extends React.Component {
               experience in Web Development.
             </p>
             <br />
+            <p>
+              I have a Bachelors Degree in Software Engineering and graduated
+              with a 1st class.
+            </p>
+            <br />
             <ul className="tags">
               <li>
                 <a href="#" className="tag">
